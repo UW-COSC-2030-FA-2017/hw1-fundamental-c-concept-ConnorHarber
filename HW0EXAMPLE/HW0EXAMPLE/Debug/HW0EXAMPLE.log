@@ -1,0 +1,11 @@
+﻿  HW0.cpp
+e:\compsciii\hw\hw0\hw0example\hw0example\hw0.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+e:\compsciii\hw\hw0\hw0example\hw0example\hw0.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+e:\compsciii\hw\hw0\hw0example\hw0example\hw0.cpp(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+e:\compsciii\hw\hw0\hw0example\hw0example\hw0.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+  HW0EXAMPLE.vcxproj -> E:\COMPSCIII\hw\HW0\HW0EXAMPLE\Debug\HW0EXAMPLE.exe
+  HW0EXAMPLE.vcxproj -> E:\COMPSCIII\hw\HW0\HW0EXAMPLE\Debug\HW0EXAMPLE.pdb (Partial PDB)
